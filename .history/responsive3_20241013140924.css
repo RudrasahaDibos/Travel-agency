@@ -6,7 +6,7 @@
     .header-items{
          visibility: hidden;
     }
-    .Popular-tours-section{
+    .Popular-tours-section,.grid-card-container{
         flex-direction: column;
         justify-content: center;
         align-items: center;
@@ -18,12 +18,5 @@
     }
     .content{
         flex-direction: column ;
-    }
-    .grid-card-container{
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        min-height: 10px;
-        width: 100%;
     }
 }

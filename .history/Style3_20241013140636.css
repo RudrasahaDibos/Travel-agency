@@ -198,31 +198,23 @@
     justify-content: center;
     align-items: center; 
 }
-
+.card-tilte{
+    text-s
+}
 .grid-card-container{
     margin-top: 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
-  
    
     
 }
 .grid-content{
     border: 1px solid red;
-    width: 49%;
+    width: 45%;
     min-height: 200px;
     border-radius: 5px;
-    padding: 10px;
-    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
-}
-.card-tilte{
-    text-size-adjust: 30px;
-}
-.card-discription{
-    margin-top: 10px;
-    font-size: 20px;
 }
 
 /* why choose us end */
