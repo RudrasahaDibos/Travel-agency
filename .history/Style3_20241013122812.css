@@ -89,7 +89,6 @@
     margin: 0 auto;
     margin-top: 70px;
     min-height: 100px;
-   
 
 }
 .popular-tours-title{
@@ -99,10 +98,10 @@
 }
 .Popular-tours{
     width: 50%;
-    font-size: 20px;
+    font-size: 10px;
 }
 .Popular-tours p{
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 .Popular-tours ul li{
     margin-left: 15px;
@@ -112,7 +111,7 @@
     gap: 150px;
     width: 100%;
 }
-.popular-tours-image img{
+.popular-tours-image{
     width: 100%;
 }
 .Popular-tours button{

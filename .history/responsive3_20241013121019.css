@@ -10,10 +10,5 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        gap: 30px;
-    }
-    
-    .Popular-tours,.popular-tours-title{
-        font-size: 15px;
     }
 }

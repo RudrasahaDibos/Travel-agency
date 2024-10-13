@@ -12,8 +12,11 @@
         align-items: center;
         gap: 30px;
     }
-    
-    .Popular-tours,.popular-tours-title{
-        font-size: 15px;
+    .popular-tours-image img{
+      
+       width: 100%;
+    }
+    .Popular-tours {
+        font-size: 10px;
     }
 }
