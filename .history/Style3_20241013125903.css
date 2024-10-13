@@ -143,6 +143,8 @@
 /* pupolar tours ends */
 /* big container start */
 .big-container{
+    max-width: 1240px;
+    margin: 0 auto;
     margin-top: 50px;
  }
  .big-container-title{

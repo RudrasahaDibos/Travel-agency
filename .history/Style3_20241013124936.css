@@ -143,24 +143,21 @@
 /* pupolar tours ends */
 /* big container start */
 .big-container{
-    margin-top: 50px;
+    max-width: 1240px;
+    margin: 0 auto;
  }
  .big-container-title{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-   
-    
  }
  .container{
-    max-width: 1250px;
+    max-width: 1200px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
            }
                
     .item {
