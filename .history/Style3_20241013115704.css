@@ -34,13 +34,7 @@
     text-decoration: none;
     color: black;
 }
-.menu-bar{
-    visibility: hidden;
-    width: 35px;
-    height: 5px;
-    background-color: black;
-    margin: 6px 0;
-}
+.menu-bar
 
 /* banner items  */
 .banner-image{

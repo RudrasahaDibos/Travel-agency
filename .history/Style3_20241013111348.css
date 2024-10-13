@@ -34,13 +34,6 @@
     text-decoration: none;
     color: black;
 }
-.menu-bar{
-    visibility: hidden;
-    width: 35px;
-    height: 5px;
-    background-color: black;
-    margin: 6px 0;
-}
 
 /* banner items  */
 .banner-image{
@@ -88,7 +81,6 @@
     max-width: 1250px;
     margin: 0 auto;
     margin-top: 70px;
-    min-height: 100px;
 
 }
 .popular-tours-title{
@@ -136,5 +128,7 @@
     vertical-align: bottom;
     width: 190px;
 }
-
+.popular-tours-image{
+    border: 1px solid red;
+}
 

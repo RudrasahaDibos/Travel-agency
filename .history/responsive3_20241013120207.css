@@ -1,9 +1,5 @@
 @media screen and (max-width:576px) {
     .menu-bar{
         visibility: visible;
-        margin-right: 5px;
-    }
-    .header-items{
-         visibility: hidden;
     }
 }
