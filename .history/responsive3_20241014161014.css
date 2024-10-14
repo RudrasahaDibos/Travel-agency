@@ -1,0 +1,43 @@
+@media screen and (max-width:576px) {
+    .menu-bar{
+        visibility: visible;
+        margin-right: 5px;
+    }
+    .header-items{
+         visibility: hidden;
+    }
+    .Popular-tours-section{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+    }
+    
+    .Popular-tours,.popular-tours-title{
+        font-size: 15px;
+    }
+    .content{
+        flex-direction: column ;
+    }
+    .grid-card-container{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        min-height: 10px;
+        width: 100%;
+    }
+    .deals-discounts-content{
+        display: flex;
+        fle
+        justify-content: center;
+        align-items: center;
+    }
+    .deals-discounts-image-content img{
+      height:500px;  
+     }
+     .deals-discounts-card{
+        width: 90%;
+        margin-top:-70%;
+        right: 45%;
+     }
+}
